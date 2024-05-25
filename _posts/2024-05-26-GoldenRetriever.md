@@ -35,3 +35,6 @@ This trust can be therapeutic, providing a stable and non-judgmental presence th
 The Golden is best suited to accompany the elderly and children, and is more suitable for first-time dog owners. Golden and the elderly and children are like a natural pair, and most of the Golden are very happy to accompany the elderly or children.
 
 Golden Retrievers' forgiving nature and unconditional love can teach valuable lessons about acceptance and forgiveness. This can help owners develop a more positive outlook on life and improve emotional resilience.
+
+> Parents should be careful to deal with the children and the Golden Hair, even if the Golden Hair is such a gentle breed, some Goldens will be coerced because of the children crying loudly beside them, and some Goldens is so active that the children may get hurt because of being pushed down, and the Goldens will be hurt because of being pushed down. hurt by being pushed over, and similarly, children may hurt their little Golden by playing roughly.
+{: .prompt-warning }
