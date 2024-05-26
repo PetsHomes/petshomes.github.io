@@ -2,17 +2,19 @@
 title: Golden Retrieves
 date: 2024-05-26 01:36:00 +0800
 categories: [Dogs]
-tags: [Company, Loyalty, Communication, Intelligence]     # TAG names should always be lowercase
+tags: [Company, Loyalty, Communication, Intelligent]     # TAG names should always be lowercase
 math: true
 ---
 
 Golden Retrieves are famous for their intelligence, loving to communication, trusting of humans and company. Thus, they are good for human mental health and well-being.
 
-### Intelligence
+### Intelligent
 
 Goldens are very intelligent, with the fourth highest IQ of all dogs, are obedient and have a keen sense of smell.
 
 The high intelligence of Golden Retrievers provides intellectual stimulation for their owners. Training and engaging in problem-solving activities with a smart dog can be a rewarding experience that boosts cognitive function and mental agility.
+
+![Goldens](../assets/img/posts/Goldens.jpg){: .left }
 
 ### Loving to Communication
 
