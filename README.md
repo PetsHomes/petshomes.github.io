@@ -1,5 +1,3 @@
-![head](../assets/img/about/head.jpg)
-
 Welcome to **PetsHomes**, your one-stop resource for understanding the profound impact pets can have on our mental health. Our mission is to guide prospective pet owners through the journey of pet adoption, emphasizing the therapeutic aspects of pet companionship.
 
 ### Our Vision
